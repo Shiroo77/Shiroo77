@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prem Ahankare 
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java / JavaScript
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me https://www.linkedin.com/in/prem-ahankare-828bba289/
 
